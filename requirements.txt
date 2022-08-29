@@ -1,4 +1,7 @@
 pip==21.3.1
+wheel==0.37.1
+setuptools==65.3.0
+packaging==21.3
 Keras==2.4.3
 opencv_python==4.4.0.46
 numpy==1.18.5
